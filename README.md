@@ -1,25 +1,40 @@
 # Maxime Biraud
 
-I build practical systems around automation, product execution, and multi-agent workflows.
+I build operator-first systems for automation, execution, and multi-agent work.
 
-## Focus
+```text
+strategy -> execution -> build -> review -> knowledge
+```
+
+I care about systems that stay clear under load:
+
+- one front door
+- explicit ownership
+- low-noise execution
+- fast feedback loops
+- clean separation between thinking and doing
+
+## What I Build
 
 - multi-agent orchestration
-- execution systems and delivery workflows
+- execution and delivery systems
 - applied automation
-- fast product prototyping
+- product prototypes that can survive after the demo
 
-## Public Work
+## Current Public Work
 
-- [`openclaw-agents-docs`](https://github.com/DaMaxime/openclaw-agents-docs): clean public documentation for my OpenClaw agent architecture
+- [`openclaw-agents-docs`](https://github.com/DaMaxime/openclaw-agents-docs)
+  Public documentation for a clean OpenClaw staff architecture:
+  `Sage -> Arsene -> Forge / Librarian / Juge / Explorer`
 
-## Working Style
+## Working Principles
 
-- sharp scope
-- fast feedback loops
-- low-noise execution
-- systems that stay operable after the demo
+- scope before speed
+- systems over hacks
+- review where risk is real
+- documentation that stays usable
+- architecture that matches operations
 
 ## Current Direction
 
-Building agent stacks that keep strategy, execution, implementation, review, and knowledge management clearly separated.
+Designing agent stacks where strategy, execution, implementation, review, and knowledge management are all separate surfaces instead of one overloaded assistant.
