@@ -1,4 +1,4 @@
-# Maxime Biraud
+# Maxime
 
 I build clean execution systems.
 
